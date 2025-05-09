@@ -1,7 +1,7 @@
 WGU JavaFX Electronics Store Project
 Rubric Mapping: C–J
 
-GIT Link - https://github.com/ewicp0/WGU-web-project
+GIT Link - https://github.com/ewicp0/WGU_web_app.git
 
 ====================================
 C. Customized HTML UI
